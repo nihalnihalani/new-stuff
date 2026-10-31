@@ -1,0 +1,22 @@
+type,handle_or_name,display_name,user_id,profile_or_query,why,approved_on
+account,OpenAI,OpenAI,4398626122,https://x.com/OpenAI,Official model and product launches,2026-10-24
+account,AnthropicAI,Anthropic,1353836358901501952,https://x.com/AnthropicAI,Claude releases and research,2026-10-24
+account,GoogleDeepMind,Google DeepMind,4783690002,https://x.com/GoogleDeepMind,Gemini releases and demos,2026-10-24
+account,AIatMeta,AI at Meta,1034844617261248512,https://x.com/AIatMeta,Meta open-weights models,2026-10-24
+account,MistralAI,Mistral AI,1667249535519805451,https://x.com/MistralAI,Open-weights lab; low volume,2026-10-24
+account,huggingface,Hugging Face,778764142412984320,https://x.com/huggingface,Hub for new open models (repost-heavy),2026-10-24
+account,_akhaliq,AK,2465283662,https://x.com/_akhaliq,Daily AI papers and model drops,2026-10-24
+account,karpathy,Andrej Karpathy,33836629,https://x.com/karpathy,Rare high-signal LLM takes,2026-10-24
+account,simonw,Simon Willison,12497,https://x.com/simonw,Hands-on notes on new models,2026-10-24
+account,devpost,Devpost,15837844,https://x.com/devpost,Hackathon announcements and winners,2026-10-24
+account,GithubProjects,GitHub Projects Community,1315639147248246785,https://x.com/GithubProjects,Unofficial GitHub repo showcase,2026-10-24
+account,trending_repos,Trending GitHub Repositories,1162359127294861314,https://x.com/trending_repos,Automated daily/weekly/monthly most-starred repo,2026-10-24
+search,new-model-releases,,,"(""new model"" OR ""open weights"" OR ""we're releasing"" OR ""now available"") (LLM OR model) -is:retweet -is:reply lang:en",New model and open-weights releases,2026-10-24
+search,ai-hackathon-winners,,,"hackathon (""we won"" OR ""won 1st"" OR ""won first"" OR ""1st place"" OR ""first place"" OR winners) (AI OR LLM OR agent OR agentic) -is:retweet -crypto -BNB -token -airdrop -web3 lang:en",AI hackathon winners,2026-10-24
+search,ai-github-repos,,,"url:github.com (AI OR LLM OR agent OR ""open source"") (trending OR stars OR repo) -is:retweet -is:reply lang:en",AI GitHub repos,2026-10-24
+search,trending-ai,,,"(""trending on Hugging Face"" OR ""#1 trending"" OR ""GitHub trending"" OR ""trending repo"") (AI OR LLM OR model OR agent) -is:retweet -pumpfun -crypto lang:en",Trending GitHub repos and HF models,2026-10-24
+search,llm-benchmarks,,,"(benchmark OR leaderboard OR SWE-bench OR ""ARC-AGI"" OR LMArena) (LLM OR model OR ""open weights"") -is:retweet -is:reply lang:en",LLM benchmarks and open weights,2026-10-24
+search,grok-bots,,,"(""Grok Bot"" OR ""Grok Bots"" OR GrokBot OR GrokBots) (built OR made OR template OR agent OR team OR ""check out"" OR recommend OR best) -is:retweet -is:reply -crypto -token -tokens -airdrop -pumpfun -NFT lang:en",Showcases and recommendations of good Grok Bots / templates,2026-10-24
+account,anurag_629,,,https://x.com/anurag_629,Write-ups of open hackathons,2026-10-24
+account,WeMakeDevs,WeMakeDevs,,https://x.com/WeMakeDevs,Indian dev community and hackathons,2026-10-24
+account,chinchoukou,,,https://x.com/chinchoukou,Daily GitHub Trending explainers,2026-10-24
